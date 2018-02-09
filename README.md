@@ -1,6 +1,7 @@
-# -soscli
-sos cli to angular sos
-From:
+# @soscli
+sos cli to angular sos.
+
+*From:*
 
 # Angular DevKit
 ### Development tools and libraries specialized for Angular
@@ -55,4 +56,4 @@ This is a monorepo which contains many packages:
 **Package JSON Update Schematics** | [`@schematics/package-update`](http://npmjs.com/packages/@schematics/package-update) | [![latest](https://img.shields.io/npm/v/%40schematics%2Fpackage-update/latest.svg)](http://npmjs.com/packages/@schematics/package-update) | 
 **Schematics Schematics** | [`@schematics/schematics`](http://npmjs.com/packages/@schematics/schematics) | [![latest](https://img.shields.io/npm/v/%40schematics%2Fschematics/latest.svg)](http://npmjs.com/packages/@schematics/schematics) | 
 
-## To customize Schematics
+**To customize Schematics**
